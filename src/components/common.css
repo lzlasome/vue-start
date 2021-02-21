@@ -1,0 +1,37 @@
+/* 排版 */
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+/* 行内元素 */
+.font-white{
+    color: #fff;
+}
+.font-center{
+    text-align: center;
+}
+/* 二级页面嵌入式滚动 */
+.y-scroll{
+    overflow-y:scroll;
+}
+/* 边距 */
+.m10{margin:10px}
+.m20{margin:20px}
+.m30{margin:30px}
+.pading-limit{
+box-sizing: border-box;/* 限制padding bodder等对盒子尺寸影响 */
+}
+/* 背景色 */
+.main-bc-color{
+    background-color: #409eff;
+}

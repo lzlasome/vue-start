@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfontq";
+  src: url('iconfont.eot?t=1610693849793'); /* IE9 */
+  src: url('iconfont.eot?t=1610693849793#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQ0AAsAAAAACOwAAAPnAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqFKIRKATYCJAMQCwoABCAFhHkHRBu8B8iemjyKBSiACYAFYMERDx6oP/PNn0ma/VgZJXEEmS2Jc9NjNta0CJ4jTFH1qojHnAdKm89IiakZPT/hCIxbAQSE8v8cM120DWf5n+/NpSsAzwrsQKKL8LCB/Ab1DCaEqvSNF0MAOpHSifoNZ1ueCAqylQDE8CHquScS6VENZIFDZa84UCGWYMOhzdXuAYv1x4u/5HaAhk1CLtV6YP/K0/rR/8dfOds9W3c5m9nTWYHDYSCBdKBA9K60d8Vv4+kk+o01QCawo2q1HwN+/HW7mZKn9bBNuwOG/ONpIOwQuQmx+QkJP/pzvlcMgFoEVPyFRWgAb8YBDsAL+ALCB6IOn6bCjt00wxOVOJlSln+Av2VNe/as/fPnHV6+7PTixWQm7Wi4IaewQjddzHHO2wO6oM7eaxhQ59cKYZxyjnPS/L0hHXZLjR/Wwppz8Tq6MPkK+q4LQsxZH9S0UvOnj7XGGE+8Rs7fuXb2mh36Luec2n6+uqvZ3qsjMTFucpk2aTxIrnK2nwcRgFmJXC3pxwKBuli1CdSKkDW/tkMr/iABlIwUOiE3m+evrdw7YvVogpEro2XBaelyydOUI7lC7CuM7Ykb5ZMnEko2Yi4U42pzyfz5VkxojKXm+4b6WveX4fBFfxe3eKmXeCDj1h/vu3reobDmjeb/zYua55a0D73r/eZWxoWa27R46esKkB1X3VqVttIo3Ra4vdRgYNzAH8zUCynVPEGmibvy4bNpZ+XDSvRjnj6eQ3ltmI811PK50uuP8z5q+sdSFM8/vR/lt3myfB4NdWYbOoddigmLsQI8fT7+bKfr7UQ2y9kUau5vlnqLpB7Tp2/r2cesHsJF52M0HsAtT8hCALlBu6SdJzTXn+Rv+Nu91cFpuvxfxFAAvEvq8Qf9bsUwpeO9cwj4Swg6Tqi7iBiUuoo5/xFQ9Od7304DdHTADdy+PkyhDOhcDAIPAjxo1CESJB4kIBU2E2wYFIEdD+qCTppmhxv4mYgfoTyAVHMBCHwdBQ1ProPE11Okwn4HG4H+gx3fFuh0FFEnNEg8Qa83Fs8Fr6DvPQy5JEdhJomZtuUGqtfWOcdiSN1BdvUw5GRm56khOsjT7DLuRq2PFwUGMtnQEFwOLYtgNJOBl1IeLLJoZmUNrHqncj+yPTHqwSDnCMgVoC/3gCFcQjgocm4hln3Wkg0QlWsszuGmPpB9B4Rx0ZcHcmTK7oIcyp1uPbf0mHHcoFI3HkEBDIQhbEBDYEUsKiUkH129ngFyiVA2eEB0QVMWnjWwq7y8AaX9Oi8BdMhbKKEJKZSwoffpf1Xqp/OlhYE+E4RCffob1654PAA=') format('woff2'),
+  url('iconfont.woff?t=1610693849793') format('woff'),
+  url('iconfont.ttf?t=1610693849793') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1610693849793#iconfontq') format('svg'); /* iOS 4.1- */
+}
+
+.iconfontq {
+  font-family: "iconfontq" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.water-icon-add-circle:before {
+  content: "\e665";
+}
+
+.water-icon-auto:before {
+  content: "\e6eb";
+}
+
+.water-icon-adjust:before {
+  content: "\e664";
+}
+
